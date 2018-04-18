@@ -18,11 +18,11 @@ Replace with a description of the interactive dimensions of your project.  How d
 
 Do you intend to extend a piece that you've created throughout the semester? What elements are you adding or subtracting from the previous piece? How do these extensions/subtractions further develop the conceptual and interactive elements of your work?
 
-![Previous Piece](previous_piece.jpg)
+![Previous Piece](previous_piece.png)
 
 ### Drawing or Sketch of Extended Piece
 
-![Sketch of Extended Piece](extended_piece.jpg)
+![Sketch of Extended Piece](extended_piece.png)
 
 ### Technical Details
 //   
